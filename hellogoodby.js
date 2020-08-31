@@ -1,5 +1,5 @@
-var names=["Henk",  "Jack"];
+var names="Henk";
+var name2="Jack";
 for (var name in names){
-	// if(name[1]=!Jack){
 	console.log("Hello " + names[name]);
 }
